@@ -1,4 +1,4 @@
-# Credit-card-Fraud-detection
+
 # Credit Card Fraud Detection
 
 A machine learning project that detects fraudulent credit card transactions using Logistic Regression and Random Forest.
