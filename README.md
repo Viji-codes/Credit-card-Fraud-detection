@@ -19,9 +19,9 @@ A machine learning project that detects fraudulent credit card transactions usin
 ## Results (Random Forest)
 | Metric | Score |
 |--------|-------|
-| Fraud Precision | __% |
-| Fraud Recall | __% |
-| ROC AUC | __ |
+| Fraud Precision | 93% |
+| Fraud Recall | 83% |
+| ROC AUC | 0.972
 
 Accuracy alone is misleading on imbalanced data. A model that always predicts "Normal" would still score about 99.8%, so precision and recall on the fraud class matter more.
 
